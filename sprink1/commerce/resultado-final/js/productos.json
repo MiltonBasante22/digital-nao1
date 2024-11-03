@@ -1,0 +1,125 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "Abrigo 01",
+        "imagen": "./img/abrigos/01.svg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 28
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Abrigo 02",
+        "imagen": "./img/abrigos/02.svg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 45
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Abrigo 03",
+        "imagen": "./img/abrigos/03.svg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 38
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Abrigo 04",
+        "imagen": "./img/abrigos/04.svg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 30
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "Abrigo 05",
+        "imagen": "./img/abrigos/05.svg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 20
+    },
+    {
+        "id": "reloj",
+        "titulo": "reloj",
+        "imagen": "./img/reloj/reloj-1.svg",
+        "categoria": {
+            "nombre": "reloj",
+            "id": "reloj"
+        },
+        "precio": 45
+    },
+    {
+        "id": "reloj",
+        "titulo": "reloj",
+        "imagen": "./img/reloj/reloj-2.svg",
+        "categoria": {
+            "nombre": "reloj",
+            "id": "reloj"
+        },
+        "precio": 60
+    },
+    {
+        "id": "reloj",
+        "titulo": "reloj",
+        "imagen": "./img/reloj/reloj-3.svg",
+        "categoria": {
+            "nombre": "reloj",
+            "id": "reloj"
+        },
+        "precio": 26
+    },
+    {
+        "id": "reloj",
+        "titulo": "reloj",
+        "imagen": "./img/reloj/reloj-4.svg",
+        "categoria": {
+            "nombre": "reloj",
+            "id": "reloj"
+        },
+        "precio": 80
+    },
+ 
+    
+   
+    {
+        "id": "pantalon-03",
+        "titulo": "Pantalón 03",
+        "imagen": "./img/pantalones/03.svg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 34
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Pantalón 04",
+        "imagen": "./img/pantalones/04.svg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 22
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Pantalón 05",
+        "imagen": "./img/pantalones/05.svg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 23
+    }
+]
